@@ -1,0 +1,10 @@
+{
+  "content": [
+    {
+      "username": "Nome Exemplo",
+      "user": "usuario.exemplo",
+      "admin": true,
+      "technical": false
+    }
+  ]
+}
