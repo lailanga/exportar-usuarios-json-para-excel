@@ -3,6 +3,11 @@
 Ferramenta simples para transformar dados de usuários em formato JSON em uma planilha Excel estruturada.
 
 
+## 📥 Download
+
+Baixe o executável na aba Releases:
+https://github.com/laialanga/gerar_excel/releases
+
 ## 🎯 Objetivo
 
 Este projeto foi criado para resolver um problema comum:
