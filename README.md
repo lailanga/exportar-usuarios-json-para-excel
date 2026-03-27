@@ -6,7 +6,7 @@ Ferramenta simples para transformar dados de usuários em formato JSON em uma pl
 ## 📥 Download
 
 Baixe o executável na aba Releases:
-https://github.com/laialanga/gerar_excel/releases
+https://github.com/lailanga/exportar-usuarios-json-para-excel/releases
 
 ## 🎯 Objetivo
 
